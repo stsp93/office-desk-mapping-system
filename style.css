@@ -1,0 +1,10 @@
+.desk {
+    display: inline-block;
+    cursor: move;
+    padding: 20px;
+    background-color: aquamarine;
+}
+
+.desk.dragging {
+    opacity: 0.5;
+  }
